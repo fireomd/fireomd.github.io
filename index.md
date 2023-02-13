@@ -1,5 +1,5 @@
 Fireomd Library
 ================
 
-<!-- [Engine Service Manual](./service_manual.pdf) -->
-Engine Service Manual
+[Engine Workshop Manual](./docs/perkins_workshop_manual.pdf)
+[Gerbox Service Manual](./docs/gearbox_service_manual.pdf)
